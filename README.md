@@ -1,4 +1,4 @@
-# DNS Server Configuration Guide - BIND on Rocky Linux/CentOS
+# DNS Server Configuration Guide - BIND on Fedora
 
 ## Table of Contents
 1. [Overview](#overview)
