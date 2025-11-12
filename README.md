@@ -535,4 +535,3 @@ You now have a fully functional DNS server managing the `ensa.ac.ma` domain. Thi
 - Wildcard subdomain support
 - Recursive queries for clients on the local network
 
-Remember to increment the serial number whenever you modify zone files, and always validate your changes before reloading the service.
