@@ -13,7 +13,7 @@
 
 ## Overview
 
-This guide provides step-by-step instructions for configuring a DNS server using BIND (Berkeley Internet Name Domain) on Rocky Linux or CentOS. The server will manage the `ensa.ac.ma` domain with the following infrastructure:
+This guide provides step-by-step instructions for configuring a DNS server using BIND (Berkeley Internet Name Domain) on Fedora or CentOS. The server will manage the `ensa.ac.ma` domain with the following infrastructure example:
 
 | Service | Hostname | IP Address |
 |---------|----------|------------|
@@ -30,7 +30,7 @@ This guide provides step-by-step instructions for configuring a DNS server using
 
 Before starting, ensure you have:
 - Root or sudo access to the server
-- Rocky Linux, CentOS, or RHEL-based system
+- Rocky Linux, CentOS, Fedora system
 - Static IP address configured (192.168.1.132)
 - Internet connectivity for package installation
 - Basic understanding of DNS concepts
